@@ -19,8 +19,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/bs/spiders/zhihu.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="272">
-              <caret line="98" column="30" lean-forward="true" selection-start-line="98" selection-start-column="30" selection-end-line="98" selection-end-column="30" />
+            <state relative-caret-position="122">
+              <caret line="92" column="26" lean-forward="true" selection-start-line="92" selection-start-column="26" selection-end-line="92" selection-end-column="26" />
               <folding>
                 <element signature="e#25#36#0" expanded="true" />
               </folding>
@@ -83,8 +83,16 @@
     </findStrings>
   </component>
   <component name="Git.Settings">
+    <option name="PREVIOUS_COMMIT_AUTHORS">
+      <list>
+        <option value="xu" />
+      </list>
+    </option>
     <option name="ROOT_SYNC" value="DONT_SYNC" />
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="PUSH_TAGS">
+      <GitPushTagMode />
+    </option>
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -118,7 +126,22 @@
     </navigator>
     <panes>
       <pane id="Scope" />
-      <pane id="ProjectPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="bs" type="b2602c69:ProjectViewProjectNode" />
+              <item name="bs" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="bs" type="b2602c69:ProjectViewProjectNode" />
+              <item name="bs" type="462c0819:PsiDirectoryNode" />
+              <item name="bs" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
       <pane id="Course" />
     </panes>
   </component>
@@ -281,19 +304,27 @@
       <updated>1552308034756</updated>
       <workItem from="1552308080157" duration="8000" />
       <workItem from="1552308363398" duration="5000" />
-      <workItem from="1552308412211" duration="1164000" />
+      <workItem from="1552308412211" duration="1599000" />
     </task>
+    <task id="LOCAL-00001" summary="第一次提交">
+      <created>1552309710634</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1552309710634</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1177000" />
+    <option name="totallyTimeSpent" value="1612000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info id="Structure" order="0" weight="0.25" />
-      <window_info content_ui="combo" id="Project" order="1" sideWeight="0.49931973" visible="true" weight="0.15348525" />
+      <window_info active="true" content_ui="combo" id="Project" order="1" sideWeight="0.49931973" visible="true" weight="0.15348525" />
       <window_info id="Favorites" order="2" sideWeight="0.50068027" side_tool="true" weight="0.15348525" />
       <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -303,7 +334,7 @@
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Version Control" order="7" />
+      <window_info anchor="bottom" id="Version Control" order="7" visible="true" weight="0.32970026" />
       <window_info anchor="bottom" id="Educational.CheckDetails" order="8" />
       <window_info anchor="bottom" id="Terminal" order="9" weight="0.28707483" />
       <window_info anchor="bottom" id="Python Console" order="10" />
@@ -318,6 +349,10 @@
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="第一次提交" />
+    <option name="LAST_COMMIT_MESSAGE" value="第一次提交" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -567,8 +602,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/bs/spiders/zhihu.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="272">
-          <caret line="98" column="30" lean-forward="true" selection-start-line="98" selection-start-column="30" selection-end-line="98" selection-end-column="30" />
+        <state relative-caret-position="122">
+          <caret line="92" column="26" lean-forward="true" selection-start-line="92" selection-start-column="26" selection-end-line="92" selection-end-column="26" />
           <folding>
             <element signature="e#25#36#0" expanded="true" />
           </folding>
